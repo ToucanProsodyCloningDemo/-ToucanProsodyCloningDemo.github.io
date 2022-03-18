@@ -7,6 +7,10 @@
 
 [https://github.com/DigitalPhonetics/IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan)
 
+## Interactive Demo
+
+[Hosted on Huggingface🤗 Spaces](https://huggingface.co/spaces/Flux9665/SpeechCloning)
+
 ## Audio Samples
 
 - <div style="display:inline;"> Don't forget what they said yesterday, </div> <div style="color:darkgreen; display:inline; font-weight: bold;" > two </div><div style="display:inline;"> policemen is excessive. <br>  <br> </div>
