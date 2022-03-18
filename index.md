@@ -5,24 +5,9 @@
 
 ## Official Code
 
-https://github.com/DigitalPhonetics/IMS-Toucan
+[https://github.com/DigitalPhonetics/IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan)
 
 ## Audio Samples
-
-- <div style="display:inline;"> I said, </div> <div style="color:darkgreen; display:inline; font-weight: bold;" > I </div><div style="display:inline;"> have won, when they asked. <br>  <br> </div>
-
-    <table style='width: 100%;'>
-        <tr>
-            <td>Reference Human Speech</td>
-            <td><audio controls="" ><source src="resources/human/8.wav" type="audio/wav"></audio></td></tr><tr>
-            <td>Copy Style and Voice</td>
-            <td><audio controls="" ><source src="resources/same_voice_same_style/8.wav" type="audio/wav"></audio></td></tr><tr>
-            <td>Copy Style, but convert to different Voice</td>
-            <td><audio controls="" ><source src="resources/diff_voice_same_style/8.wav" type="audio/wav"></audio></td></tr><tr>
-            <td>Just copy the Voice, ignore style</td>
-            <td><audio controls="" ><source src="resources/same_voice_diff_style/8.wav" type="audio/wav"></audio></td></tr><tr>
-        </tr>
-    </table>
 
 - <div style="display:inline;"> Don't forget what they said yesterday, </div> <div style="color:darkgreen; display:inline; font-weight: bold;" > two </div><div style="display:inline;"> policemen is excessive. <br>  <br> </div>
 
@@ -36,6 +21,21 @@ https://github.com/DigitalPhonetics/IMS-Toucan
             <td><audio controls="" ><source src="resources/diff_voice_same_style/9.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Just copy the Voice, ignore style</td>
             <td><audio controls="" ><source src="resources/same_voice_diff_style/9.wav" type="audio/wav"></audio></td></tr><tr>
+        </tr>
+    </table>
+
+- <div style="display:inline;"> I said, </div> <div style="color:darkgreen; display:inline; font-weight: bold;" > I </div><div style="display:inline;"> have won, when they asked. <br>  <br> </div>
+
+    <table style='width: 100%;'>
+        <tr>
+            <td>Reference Human Speech</td>
+            <td><audio controls="" ><source src="resources/human/8.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Copy Style and Voice</td>
+            <td><audio controls="" ><source src="resources/same_voice_same_style/8.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Copy Style, but convert to different Voice</td>
+            <td><audio controls="" ><source src="resources/diff_voice_same_style/8.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Just copy the Voice, ignore style</td>
+            <td><audio controls="" ><source src="resources/same_voice_diff_style/8.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
 
